@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "https://patrick-sherlund.github.io/safespect-sample/static/css/main.ba17183d.css",
+    "main.js": "https://patrick-sherlund.github.io/safespect-sample/static/js/main.79780e84.js",
+    "static/js/27.e8d34563.chunk.js": "https://patrick-sherlund.github.io/safespect-sample/static/js/27.e8d34563.chunk.js",
+    "static/media/logo.png": "https://patrick-sherlund.github.io/safespect-sample/static/media/logo.92bc874319a489272c93.png",
+    "static/media/Cargo_Truck.svg": "https://patrick-sherlund.github.io/safespect-sample/static/media/Cargo_Truck.71b31434172152ffbf9ecb7334f650eb.svg",
+    "index.html": "https://patrick-sherlund.github.io/safespect-sample/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ba17183d.css",
+    "static/js/main.79780e84.js"
+  ]
+}
